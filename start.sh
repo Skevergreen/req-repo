@@ -9,4 +9,4 @@ fi
 cd /Elsa
 pip3 install -U -r requirements.txt
 echo "𝙎𝙩𝙖𝙧𝙩𝙞𝙣𝙜....🧞‍♂️"
-python3
+python3 bot.py
