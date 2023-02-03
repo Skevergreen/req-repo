@@ -49,8 +49,8 @@ BOT_TOKEN = environ.get('BOT_TOKEN', '5813755577:AAGMxmce6fAlwImXrCon6z5UexFBHgG
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://telegra.ph/file/ac5042aa8aaddea9309a5.jpg')).split()
-NOR_IMG = environ.get('NOR_IMG', "https://telegra.ph/file/e0d96d26b76654a7a9f4c.jpg")
+PICS = (environ.get('PICS', 'https://telegra.ph/file/7751d6d5aca96974929d8.jpg')).split()
+NOR_IMG = environ.get('NOR_IMG', "https://telegra.ph/file/139bcd87f5604128abd46.jpg")
 SPELL_IMG = environ.get('SPELL_IMG',"https://te.legra.ph/file/e5fd8c6bc6580bea9fa28.jpg")
 
 # Welcome area
@@ -86,13 +86,13 @@ DOWNLOAD_LOCATION = environ.get("DOWNLOAD_LOCATION", "./DOWNLOADS/AudioBoT/")
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '-1001783782056').split()]
 PORT = os.environ.get("PORT", "8080")
 MAX_BTN = int(environ.get('MAX_BTN', "10"))
-S_GROUP = environ.get('S_GROUP',"https://t.me/Cinemathattakam_Group")
+S_GROUP = environ.get('S_GROUP',"https://t.me/Oxyver_Support")
 MAIN_CHANNEL = environ.get('MAIN_CHANNEL',"https://t.me/Oxyver")
 FILE_FORWARD = environ.get('FILE_FORWARD',"https://t.me/file_forward_4u")
-MSG_ALRT = environ.get('MSG_ALRT', '𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐃𝐫 സാത്താൻ 𝐒𝐢𝐫 💜')
+MSG_ALRT = environ.get('MSG_ALRT', '𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 Mr ꧁𒆜🅻🆄🅲🅺🆈𒆜꧂ 𝐒𝐢𝐫 🤴')
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', '-1001829055377'))
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001637312289'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'CT_Arena')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Oxyver')
 AUTO_DELETE = is_enabled((environ.get('AUTO_DELETE', "True")), True)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "False")), False)
@@ -101,7 +101,7 @@ CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", f"{script.CUSTOM_FILE_C
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", CUSTOM_FILE_CAPTION)
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", f"{script.IMDB_TEMPLATE_TXT}")
 LONG_IMDB_DESCRIPTION = is_enabled(environ.get("LONG_IMDB_DESCRIPTION", "False"), False)
-SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "True"), True)
+SPELL_CHECK_REPLY = is_enabled(environ.get("SPELL_CHECK_REPLY", "False"), False)
 MAX_LIST_ELM = environ.get("MAX_LIST_ELM", None)
 INDEX_REQ_CHANNEL = int(environ.get('INDEX_REQ_CHANNEL', LOG_CHANNEL))
 FILE_STORE_CHANNEL = [int(ch) for ch in (environ.get('FILE_STORE_CHANNEL', '-1001829055377')).split()]
