@@ -3,7 +3,7 @@ class script(object):
     
 Aɴᴅ Dᴏɴᴛ Fᴏʀɢᴇᴛ Tᴏ Cʜᴇᴄᴋ Mʏ Tᴏᴅᴀʏ Sᴘᴇᴄɪᴀʟ, click 👉🏻  /new  👈🏻 To Check it.
 
-𝐀ᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ 𝐬ᴇᴇ  𝐌𝐘 𝐖𝐎𝐑𝐊 ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ.<b>"""
+𝐀ᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ 𝐬ᴇᴇ  𝐌𝐘 𝐖𝐎𝐑𝐊 ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ.</b>"""
     HELP_TXT = """<b>ʜᴇʏ {}
 ʜᴇʀᴇ ɪs ᴛʜᴇ ʜᴇʟᴘ ꜰᴏʀ ᴍʏ ᴇxᴛʀᴀ ғᴇᴀᴛᴜʀᴇs.</b>"""
 
@@ -16,7 +16,7 @@ Aɴᴅ Dᴏɴᴛ Fᴏʀɢᴇᴛ Tᴏ Cʜᴇᴄᴋ Mʏ Tᴏᴅᴀʏ Sᴘᴇᴄɪ�
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
 ✯ Cʀᴇᴀᴛᴏʀ: <a href='tg://settings'>Tʜɪs ᴘᴇʀsᴏɴ</a>
 ✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Oxyver_Owner'>꧁𒆜🅻🆄🅲🅺🆈𒆜꧂</a>
-✯ Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ: <a href='https://t.me/Oxyver_hindi_movies>𝑶𝒙𝒚𝒗𝒆𝒓 𝑴𝒐𝒗𝒊𝒆𝒔</a>
+✯ Mᴏᴠɪᴇ Cʜᴀɴɴᴇʟ: <a href='https://t.me/Oxyver_hindi_movies'>𝑶𝒙𝒚𝒗𝒆𝒓 𝑴𝒐𝒗𝒊𝒆𝒔</a>
 ✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3 [ Sᴛᴀʙʟᴇ ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
