@@ -311,7 +311,8 @@ Aɴᴅ Dᴏɴᴛ Fᴏʀɢᴇᴛ Tᴏ Cʜᴇᴄᴋ Mʏ Tᴏᴅᴀʏ Sᴘᴇᴄɪ�
 ⏰Tɪᴍᴇ : <code>{}</code>
 🌐 Tɪᴍᴇᴢᴏɴᴇ : <code>Asia/Kolkata</code></b>"""
 
-    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ ❤️"""
+    MELCOW_ENG = """<b>Hᴇʟʟᴏ {} 😍, Aɴᴅ Wᴇʟᴄᴏᴍᴇ Tᴏ {} Gʀᴏᴜᴘ, 
+Aɴᴅ Dᴏɴᴛ Fᴏʀɢᴇᴛ Tᴏ Cʜᴇᴄᴋ Mʏ Tᴏᴅᴀʏ Sᴘᴇᴄɪᴀʟ, click 👉🏻  /new  👈🏻 To Check it.❤️"""
 
     ALRT_TXT = """⚠️ 𝖧ᴇʏ !
     
